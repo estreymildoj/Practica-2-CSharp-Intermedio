@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Reymido\\Desktop\\Universidad\\ITLA\\C# Intermedio\\Practica2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17D8A2CE-B719-4E7A-8DB8-3CB4C9B87255}|Practica2\\Practica2.csproj|c:\\users\\reymido\\desktop\\universidad\\itla\\c# intermedio\\practica2\\practica2\\listanumeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D8A2CE-B719-4E7A-8DB8-3CB4C9B87255}|Practica2\\Practica2.csproj|solutionrelative:practica2\\listanumeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D8A2CE-B719-4E7A-8DB8-3CB4C9B87255}|Practica2\\Practica2.csproj|c:\\users\\reymido\\desktop\\universidad\\itla\\c# intermedio\\practica2\\practica2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D8A2CE-B719-4E7A-8DB8-3CB4C9B87255}|Practica2\\Practica2.csproj|solutionrelative:practica2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListaNumeros.cs",
+              "DocumentMoniker": "C:\\Users\\Reymido\\Desktop\\Universidad\\ITLA\\C# Intermedio\\Practica2\\Practica2\\ListaNumeros.cs",
+              "RelativeDocumentMoniker": "Practica2\\ListaNumeros.cs",
+              "ToolTip": "C:\\Users\\Reymido\\Desktop\\Universidad\\ITLA\\C# Intermedio\\Practica2\\Practica2\\ListaNumeros.cs",
+              "RelativeToolTip": "Practica2\\ListaNumeros.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T00:56:12.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Reymido\\Desktop\\Universidad\\ITLA\\C# Intermedio\\Practica2\\Practica2\\Program.cs",
+              "RelativeDocumentMoniker": "Practica2\\Program.cs",
+              "ToolTip": "C:\\Users\\Reymido\\Desktop\\Universidad\\ITLA\\C# Intermedio\\Practica2\\Practica2\\Program.cs",
+              "RelativeToolTip": "Practica2\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T00:46:07.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
