@@ -1,13 +1,23 @@
 ﻿//Tarea práctica 2
 int? input = null;
 
-Console.WriteLine("Saludos, bienvenido a la calculadora de números de lista. Seleccione una opción");
-Console.WriteLine("1. Añadir números en la lista");
-Console.WriteLine("2. Ver valores en la lista");
-Console.WriteLine("3. Sumar los números de la lista");
-Console.WriteLine("4. Restar los números de la lista de manera secuencial");
-Console.WriteLine("5. Multiplicar todos los números de la lista");
-Console.WriteLine("6. Divide todos los números de la lista de manera secuencial. \n");
+void inicio()
+{
+    Console.WriteLine("Saludos, bienvenido a la calculadora de números de lista. Seleccione una opción");
+    Console.WriteLine("1. Añadir números en la lista");
+    Console.WriteLine("2. Ver valores en la lista");
+    Console.WriteLine("3. Sumar los números de la lista");
+    Console.WriteLine("4. Restar los números de la lista de manera secuencial");
+    Console.WriteLine("5. Multiplicar todos los números de la lista");
+    Console.WriteLine("6. Divide todos los números de la lista de manera secuencial. \n");
+}
+
+inicio();
+
+void añadirNumero()
+{
+
+}
 
 try
 {
@@ -21,6 +31,7 @@ catch (FormatException e)
 switch (input)
 {
     case 1:
+        
         break;
 
     case 2:
