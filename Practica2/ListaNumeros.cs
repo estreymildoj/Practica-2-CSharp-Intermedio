@@ -6,7 +6,26 @@ using System.Threading.Tasks;
 
 namespace Practica2
 {
-    public class ListaNumeros<T> : List<T>{
+    public class ListaNumeros<T> : List<T> where T : struct {
+
+        private readonly List<T> _datos = new();
+
+        public Type Tipo => typeof(T);
+
+        public void AgregarNumero(string input)
+        {
+            object convertido;
+
+            if (Tipo == typeof(int)) convertido = int.Parse(input);
+            else if(Tipo == typeof(double)) convertido = double.Parse(input);
+            else if(Tipo == typeof(float)) convertido = float.Parse(input);
+            else if (Tipo == typeof(decimal)) convertido = float.Parse(input);
+            else
+                throw new NotSupportedException($"Tipo no soportado: {typeof(T).Name}");
+
+            _datos.Add((T)convertido);
+        }
+
         public float Sumar()
         {
             float suma = 0;

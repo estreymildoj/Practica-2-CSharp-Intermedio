@@ -12,3 +12,4 @@ C:\Users\Reymido\Desktop\Universidad\ITLA\C# Intermedio\Practica2\Practica2\obj\
 C:\Users\Reymido\Desktop\Universidad\ITLA\C# Intermedio\Practica2\Practica2\obj\Debug\net9.0\Practica2.pdb
 C:\Users\Reymido\Desktop\Universidad\ITLA\C# Intermedio\Practica2\Practica2\obj\Debug\net9.0\Practica2.genruntimeconfig.cache
 C:\Users\Reymido\Desktop\Universidad\ITLA\C# Intermedio\Practica2\Practica2\obj\Debug\net9.0\ref\Practica2.dll
+C:\Users\Reymido\Desktop\Universidad\ITLA\C# Intermedio\Practica2\Practica2\obj\Debug\net9.0\Practica2.sourcelink.json
