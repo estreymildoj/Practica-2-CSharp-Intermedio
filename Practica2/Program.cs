@@ -3,8 +3,6 @@ using Practica2;
 
 int? input = null;
 
-
-
 void inicio()
 {
     Console.WriteLine("Saludos, bienvenido a la calculadora de números de lista.");
